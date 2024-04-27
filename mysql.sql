@@ -1,4 +1,4 @@
-use kradan;
+use lbs_integrated;
 
 INSERT INTO kradan (title, description, assignees, status, createdOn, updatedOn)
 VALUES ('ดาต้าเบส','ສ້າງຖານຂໍ້ມູນ','あなた、彼、彼女 (私ではありません)','Doing', '2024-04-22 09:10:00', '2024-04-25 00:00:00');
